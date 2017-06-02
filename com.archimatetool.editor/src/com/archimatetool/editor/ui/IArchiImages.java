@@ -32,13 +32,13 @@ public interface IArchiImages {
     String DEFAULT_MODEL_THUMB = IMGPATH + "default_model_thumb.png"; //$NON-NLS-1$
     
     // ECLIPSE IMAGES
-    String ECLIPSE_IMAGE_PROPERTIES_VIEW_ICON = IMGPATH + "prop_ps.gif"; //$NON-NLS-1$
+    String ECLIPSE_IMAGE_PROPERTIES_VIEW_ICON = IMGPATH + "prop_ps.png"; //$NON-NLS-1$
     String ECLIPSE_IMAGE_OUTLINE_VIEW_ICON = IMGPATH + "outline_co.gif"; //$NON-NLS-1$
     String ECLIPSE_IMAGE_NEW_WIZARD = IMGPATH + "new_wiz.png"; //$NON-NLS-1$
     String ECLIPSE_IMAGE_IMPORT_PREF_WIZARD = IMGPATH + "importpref_wiz.png";  //$NON-NLS-1$
     String ECLIPSE_IMAGE_EXPORT_DIR_WIZARD = IMGPATH + "exportdir_wiz.png"; //$NON-NLS-1$
-    String ECLIPSE_IMAGE_FILE = IMGPATH + "file_obj.gif"; //$NON-NLS-1$
-    String ECLIPSE_IMAGE_FOLDER = IMGPATH + "fldr_obj.gif"; //$NON-NLS-1$
+    String ECLIPSE_IMAGE_FILE = IMGPATH + "file_obj.png"; //$NON-NLS-1$
+    String ECLIPSE_IMAGE_FOLDER = IMGPATH + "fldr_obj.png"; //$NON-NLS-1$
     
     String MENU_ARROW = IMGPATH + "menu-arrow.png"; //$NON-NLS-1$
     
@@ -150,7 +150,7 @@ public interface IArchiImages {
     String ICON_FORMAT_PAINTER = IMGPATH + "formatpainter.png"; //$NON-NLS-1$
     String ICON_FORMAT_PAINTER_GREY = IMGPATH + "formatpainter-grey.png"; //$NON-NLS-1$
     String ICON_GROUP = IMGPATH + "group.png"; //$NON-NLS-1$
-    String ICON_LINKED = IMGPATH + "linked.gif"; //$NON-NLS-1$
+    String ICON_LINKED = IMGPATH + "linked.png"; //$NON-NLS-1$
     String ICON_LANDSCAPE = IMGPATH + "landscape.png"; //$NON-NLS-1$
     String ICON_LOCK = IMGPATH + "lock.png"; //$NON-NLS-1$
     String ICON_MAGIC_CONNECTION = IMGPATH + "magic_connection.gif"; //$NON-NLS-1$
@@ -164,15 +164,14 @@ public interface IArchiImages {
     String ICON_NEW_OVERLAY = IMGPATH + "new_overlay.gif"; //$NON-NLS-1$
     String ICON_NOTE = IMGPATH + "note.gif"; //$NON-NLS-1$
     String ICON_OPEN = IMGPATH + "open.gif"; //$NON-NLS-1$
-    String ICON_PIN = IMGPATH + "pin.gif"; //$NON-NLS-1$
+    String ICON_PIN = IMGPATH + "pin.png"; //$NON-NLS-1$
     String ICON_PLUS = IMGPATH + "plus.png"; //$NON-NLS-1$
-    String ICON_PROPERTIES = IMGPATH + "properties.gif"; //$NON-NLS-1$
     String ICON_SEARCH = IMGPATH + "search.png"; //$NON-NLS-1$
     String ICON_SKETCH = IMGPATH + "sketch.png"; //$NON-NLS-1$
     String ICON_SMALL_X = IMGPATH + "smallx.png"; //$NON-NLS-1$
     String ICON_SORT = IMGPATH + "alphab_sort_co.gif"; //$NON-NLS-1$
     String ICON_STICKY = IMGPATH + "sticky.png"; //$NON-NLS-1$
-    String ICON_TRASH = IMGPATH + "trash.gif"; //$NON-NLS-1$
+    String ICON_TRASH = IMGPATH + "trash.png"; //$NON-NLS-1$
     String ICON_UNLOCK = IMGPATH + "unlock.png"; //$NON-NLS-1$
     
     String ICON_CONNECTION_PLAIN = IMGPATH + "connection-plain.png"; //$NON-NLS-1$

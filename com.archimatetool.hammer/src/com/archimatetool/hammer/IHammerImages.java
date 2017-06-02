@@ -21,7 +21,7 @@ public interface IHammerImages {
 
     String IMGPATH = "img/"; //$NON-NLS-1$
     
-    String ICON_APP = IMGPATH + "icon.gif"; //$NON-NLS-1$
+    String ICON_APP = IMGPATH + "icon.png"; //$NON-NLS-1$
     String ICON_ADVICE = IMGPATH + "info.png"; //$NON-NLS-1$
     String ICON_ERROR = IMGPATH + "error.png"; //$NON-NLS-1$
     String ICON_OK = IMGPATH + "greentick.gif"; //$NON-NLS-1$

@@ -138,7 +138,7 @@
       </view>
       <view
             class="com.archimatetool.editor.views.properties.CustomPropertiesView"
-            icon="img/properties.gif"
+            icon="img/prop_ps.png"
             id="com.archimatetool.editor.propertiesView"
             name="%viewProperties"
             restorable="true">
