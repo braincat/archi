@@ -33,7 +33,7 @@ public interface IArchiImages {
     
     // ECLIPSE IMAGES
     String ECLIPSE_IMAGE_PROPERTIES_VIEW_ICON = IMGPATH + "prop_ps.png"; //$NON-NLS-1$
-    String ECLIPSE_IMAGE_OUTLINE_VIEW_ICON = IMGPATH + "outline_co.gif"; //$NON-NLS-1$
+    String ECLIPSE_IMAGE_OUTLINE_VIEW_ICON = IMGPATH + "outline.png"; //$NON-NLS-1$
     String ECLIPSE_IMAGE_NEW_WIZARD = IMGPATH + "new_wiz.png"; //$NON-NLS-1$
     String ECLIPSE_IMAGE_IMPORT_PREF_WIZARD = IMGPATH + "importpref_wiz.png";  //$NON-NLS-1$
     String ECLIPSE_IMAGE_EXPORT_DIR_WIZARD = IMGPATH + "exportdir_wiz.png"; //$NON-NLS-1$
@@ -146,7 +146,7 @@ public interface IArchiImages {
     String ICON_DERIVED = IMGPATH + "derived.png"; //$NON-NLS-1$
     String ICON_DERIVED_SM = IMGPATH + "derived-sm.png"; //$NON-NLS-1$
     String ICON_EXPANDALL = IMGPATH + "expandall.png"; //$NON-NLS-1$
-    String ICON_FILTER = IMGPATH + "filter.gif"; //$NON-NLS-1$
+    String ICON_FILTER = IMGPATH + "filter.png"; //$NON-NLS-1$
     String ICON_FORMAT_PAINTER = IMGPATH + "formatpainter.png"; //$NON-NLS-1$
     String ICON_FORMAT_PAINTER_GREY = IMGPATH + "formatpainter-grey.png"; //$NON-NLS-1$
     String ICON_GROUP = IMGPATH + "group.png"; //$NON-NLS-1$
